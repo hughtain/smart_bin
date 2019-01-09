@@ -2,5 +2,5 @@
 #fixed the bug of branch master
 #added ultrasound module
 
-*stm32f103c8
-*runs in mdk5
+* stm32f103c8
+* runs in mdk5
